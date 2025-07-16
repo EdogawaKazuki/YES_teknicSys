@@ -113,6 +113,7 @@ Follow on-screen prompts to interact with the robot.
 ## File Structure
 
 - `ver_2/src/Main.cpp`: Main program logic and menu system.
+- `ver_2/src/Robot.cpp`: All robot kinematics and trajectory generation logic.
 - `ver_2/include/`: Header files for robot, logger, trajectory generator, and utilities.
 - `ver_2/tools/json.hpp`: JSON parsing library.
 - `ver_2/bricks.csv`, `ver_2/demoab1.csv`, `ver_2/traj.csv`: Example data files for robot tasks.
