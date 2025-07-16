@@ -30,13 +30,9 @@ This project is a comprehensive robot control system for cable-driven parallel r
 1. Open the Visual Studio Developer Command Prompt.
 2. Change directory to the `ver_2` folder:
    ```sh
-   cd ver_2
+   code ./ver_2
    ```
-3. Open `Main.cpp` in VS Code:
-   ```sh
-   code src/Main.cpp
-   ```
-4. Build the project:
+3. Build the project:
    ```sh
    Terminal -> Run Build Task C/C++: cl.exe build active files.
    ```

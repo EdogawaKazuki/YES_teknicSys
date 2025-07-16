@@ -27,7 +27,7 @@
                 "${workspaceFolder}\\Dependencies\\TcAdsDll\\Lib\\TcAdsDll.lib",
             ],
             "options": {
-                "cwd": "${fileDirname}"
+                "cwd": "${fileDirname}\\src"
             },
             "problemMatcher": [
                 "$msCompile"
